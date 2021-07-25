@@ -54,9 +54,7 @@ function draw() {
  if(keyDown("down")){
   sc1.y=sc1.y+5
  }
-if(sc1.x=){
-  
-}
+
 
  iss.depth=sc1.depth+1
 
